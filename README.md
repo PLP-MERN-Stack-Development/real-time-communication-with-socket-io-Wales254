@@ -120,15 +120,6 @@ Client will start on `http://localhost:5173`
 
 ---
 
-## ✅ Submission Checklist
-
-* [ ] Complete client and server code
-* [ ] README.md with project overview, setup instructions, features, screenshots
-* [ ] Optional: deployed URLs added
-* [ ] Regular commits to GitHub Classroom repository
-
----
-
 ## 📚 References
 
 * [Socket.io Documentation](https://socket.io/docs/)
