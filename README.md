@@ -94,8 +94,8 @@ Client will start on `http://localhost:5173`
 
 ## 🌐 Deployment
 
-* **Server:** Deployed on [Render/Railway/Heroku](https://your-server-url.com)
-* **Client:** Deployed on [Vercel/Netlify/GitHub Pages](https://your-client-url.com)
+* **Server:** Deployed on [Render/Railway/Heroku](https://socket-io-cwlw.vercel.app/)
+* **Client:** Deployed on [Vercel](https://socket-io-cwlw.vercel.app/)
 
 
 
